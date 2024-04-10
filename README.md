@@ -14,8 +14,8 @@
              `/:-:++oooo+:
             `/++++/+++++++:
            `/+++/Arch/+++++:
-          `/+++oooo/Linux/oo/`            
-         ./ooosssso++osssssso+`           
+          `/+++++++/Linux/++/`            
+         ./+++++++++++++++++++`           
         .oossssso-````/ossssss+`          
        -osssssso.      :ssssssso.
       :osssssss/        osssso+++.
