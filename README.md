@@ -4,7 +4,10 @@
 - trans (26/10/22)
 - catgirl :3 
 - anarcho-communist
-- chronic tumblr user 
+- chronic tumblr user
+----
+### \~free software is best software\~
+====
 ```
                   .o+`
                  `ooo/
@@ -26,4 +29,4 @@
  .`                                 `/
 ```
 ----
-### \~free the internet\~
+
