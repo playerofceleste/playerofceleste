@@ -1,8 +1,8 @@
 # / / /  usr/ **[t]rans[c]atgirl[a]narchist**
-## /she  _/_  her/  
+## /she  /  her/  
 ----
 - trans (26/10/22)
-- 
+- catgirl :3 
 - anarcho-communist
 - chronic tumblr user 
 ```
@@ -13,8 +13,8 @@
                -+oooooo+:
              `/:-:++oooo+:
             `/++++/+++++++:
-           `/+++/Arch/+++++:
-          `/+++++++/Linux/++/`            
+           `/+++/arch/+++++:
+          `/+++++++/linux/++/`            
          ./+++++++++++++++++++`           
         .oossssso-````/ossssss+`          
        -osssssso.      :ssssssso.
@@ -26,3 +26,4 @@
  .`                                 `/
 ```
 ----
+### ~free the internet~
