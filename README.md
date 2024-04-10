@@ -7,7 +7,7 @@
 - chronic tumblr user
 - t4t lesbian
 ----
-### \~free[^note] software is best software\~
+### \~free [^note] software is best software\~
 ----
 ----
 ```
@@ -32,4 +32,4 @@
 ```
 ----
 ![alt text](https://static.fsf.org/fsforg/graphics/windows-infographic_share.png "Close Windows. Open doors.")
-[^note]free as in users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price. (source:Free Software Foundation)
+[^note]: free as in users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price. (source:Free Software Foundation)
