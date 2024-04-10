@@ -7,7 +7,8 @@
 - chronic tumblr user
 ----
 ### \~free software is best software\~
-====
+----
+----
 ```
                   .o+`
                  `ooo/
