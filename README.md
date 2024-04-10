@@ -5,7 +5,7 @@
 - 
 - anarcho-communist
 - chronic tumblr user
-```
+``
                   .o+`
                  `ooo/
                 `+oooo:
@@ -24,4 +24,4 @@
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
-```
+``
