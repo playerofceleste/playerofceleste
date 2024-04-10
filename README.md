@@ -1,4 +1,7 @@
 # / / /  usr/ **[t]rans[c]atgirl[a]narchist**
-## /she  /  her/  
+## /she  _/_  her/  
 ----
+- trans (26/10/22)
+- 
+- anarcho-communist
 - chronic tumblr user
