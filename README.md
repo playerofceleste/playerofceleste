@@ -32,3 +32,4 @@
 ```
 ----
 <a href="https://upgradefromwindows.org"><img src="//static.fsf.org/fsforg/graphics/windows-infographic_share.png" alt="Close Windows, Open Doors"/></a>
+![alt text](https://upgradefromwindows.org/static.fsf.org/fsforg/graphics/windows-infographic_share.png "Close Windows. Open doors.")
