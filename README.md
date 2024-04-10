@@ -26,4 +26,4 @@
  .`                                 `/
 ```
 ----
-### ~free the internet~
+### \~free the internet\~
