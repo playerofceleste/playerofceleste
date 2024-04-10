@@ -5,6 +5,7 @@
 - catgirl :3 
 - anarcho-communist
 - chronic tumblr user
+- t4t lesbian
 ----
 ### \~free software is best software\~
 ----
@@ -30,4 +31,4 @@
  .`                                 `/
 ```
 ----
-
+<a href="https://upgradefromwindows.org"><img src="//static.fsf.org/fsforg/graphics/windows-infographic_share.png" alt="Close Windows, Open Doors"/></a>
