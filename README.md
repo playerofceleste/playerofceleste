@@ -4,7 +4,7 @@
 - trans (26/10/22)
 - 
 - anarcho-communist
-- chronic tumblr user
+- chronic tumblr user 
 ```
                   .o+`
                  `ooo/
@@ -13,8 +13,8 @@
                -+oooooo+:
              `/:-:++oooo+:
             `/++++/+++++++:
-           `/++++++++++++++:
-          `/+++ooooooooooooo/`            
+           `/+++/Arch/+++++:
+          `/+++oooo/Linux/oo/`            
          ./ooosssso++osssssso+`           
         .oossssso-````/ossssss+`          
        -osssssso.      :ssssssso.
@@ -25,3 +25,4 @@
  `++:.                           `-/+/
  .`                                 `/
 ```
+++++
