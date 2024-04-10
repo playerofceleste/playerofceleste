@@ -14,9 +14,9 @@
              `/:-:++oooo+:
             `/++++/+++++++:
            `/++++++++++++++:
-          `/+++o${c2}oooooooo${c1}oooo/`
-${c2}         ${c1}./${c2}ooosssso++osssssso${c1}+`
-${c2}        .oossssso-````/ossssss+`
+          `/+++ooooooooooooo/`            
+         ./ooosssso++osssssso+`           
+        .oossssso-````/ossssss+`          
        -osssssso.      :ssssssso.
       :osssssss/        osssso+++.
      /ossssssss/        +ssssooo/-
@@ -24,5 +24,4 @@ ${c2}        .oossssso-````/ossssss+`
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
-EOF
 ```
